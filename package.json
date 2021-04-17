@@ -1,6 +1,6 @@
 {
   "name": "ws-push",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A ws wrapper to eanble pub/sub like functions",
   "keywords": [
     "ws",
